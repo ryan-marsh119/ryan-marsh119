@@ -1,6 +1,6 @@
 # Ryan Marsh - Python Backend Developer
 
-![Profile Banner](https://via.placeholder.com/1200x300?text=Python+Backend+Developer) <!-- Replace with an actual banner image if available -->
+<!-- ![Profile Banner](https://via.placeholder.com/1200x300?text=Python+Backend+Developer) Replace with an actual banner image if available -->
 
 ## About Me
 Hello! I'm Ryan Marsh, a Python backend developer based in Centreville, VA, with a Bachelor of Science in Computer Science from Western Governors University. I hold an active Secret Clearance and specialize in building secure, scalable APIs using Django, FastAPI, and Django REST Framework, integrated with PostgreSQL databases. My passion lies in developing mission-critical applications for defense, government, fintech, and regulated sectors, where I prioritize reliability, security, performance, and data-driven insights.
